@@ -1,0 +1,4 @@
+Data travels through the internet by traveling from one router to the other until it gets to it's destination.
+A DNS is used as an easier mechanism to determine the IP address as a domain.
+A cookie is a small folder that holds data of a person or website on a computer.
+The three basic part of a URL is a protocol, the domain name, and the path.
