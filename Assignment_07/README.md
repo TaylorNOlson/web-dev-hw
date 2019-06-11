@@ -1,0 +1,5 @@
+1. The difference between divs, classes, ids, and spans is that divs are how parts of the page are grouped. Classes indicate how wide each section of your page should be. ids are within the divs to indicate what the Heading is to each of the different sections of your page. Lastly spans are smaller groups of text within the page.
+
+2. Alt text is used in the html part of the webpage to tell the viewers of the webpage about the content of an image. We use alt text when you put an image on your webpage and the viewer can hover over the image to show the information/content of the photo.
+
+3. The work cycle for assignment_07 was that i created the different folders and files for the assignment on Atom, i then added my headings and my meta in index.html, i continued with the body of the webpage in index.html with the 5 div elements and did each step within the devs to create my webpage. I used Youtube and Sound Cloud and embedded each one to my webpage. I then did my usual README questions and saved it to my Grithub desktop, saved it to the Gruthub website, and posted the two links to Moodle to be graded. 
