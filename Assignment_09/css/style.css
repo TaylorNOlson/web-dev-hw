@@ -1,0 +1,65 @@
+body {
+ background-color: ;
+ background-image: url("images/original-graphic.gif");
+ background-position: center;
+ font-family: Georgia, times, serif;
+    }
+    .behind-text {
+       background-color: black;
+    }
+    .padded {
+       background-color: white;
+       padding: 20px;
+    }
+    .main-container {
+background-image: url("images/graphic.gif");
+width: 600px;
+margin: auto;
+padding: 20px;
+border: 1px solid back;
+ text-align: center;}
+}
+p1{
+ color: black;
+}
+hr {
+border: 2px green;
+}
+h1 {
+ color: yellow;
+ font-weight: bolder;
+
+}
+.container {
+ background-color: yellow;
+ opacity: 0.5;
+ width: 600px;
+ margin: auto;
+ padding: 20px;
+ border: 1px solid back;
+  text-align: center;
+ }
+ .other-container {
+   background-color: pink;
+   width: 600px;
+   margin: auto;
+   padding: 20px;
+   border: 1px solid back;
+    text-align: center;}
+   }
+   #para-1 {
+     font-family: Arial;
+       font-weight: bolder;
+     }
+     p2{
+      color: purple;
+      }
+    .third-container {
+        background-color: clear;
+        width: 600px;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid back;
+         text-align: center;}
+
+  /* This is a css comment!*/
