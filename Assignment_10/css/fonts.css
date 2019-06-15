@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Domine';
+  src: url('../fonts/Domine-Bold.ttf') format('opentype');
+  fontweight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Acme';
+  src: url('../fonts/Acme-Regular.ttf') format('opentype');
+  fontweight: normal;
+  font-style: normal;
