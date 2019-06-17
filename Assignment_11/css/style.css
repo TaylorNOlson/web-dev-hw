@@ -1,0 +1,56 @@
+div { background-color: RGB(14,165,180);
+   width: 800px;
+   height: 600px;
+   border: 0px;
+   padding: 20px;
+   margin: 80px;
+   display: block;
+   z-index: 3;
+}
+
+   .main-container{
+     width: 1000px;
+     max-width: 1000px;
+     min-width:1000px;
+     height: 800px;
+     background-color: RGB(107,166,96);
+     margin-bottom: 30px;
+     color: RGB(107,166,96) ;
+     position: center;
+     display: block;
+     z-index: 2}
+   }
+
+    .first-container{
+      width: 400px;
+      max-width: 400px;
+      min-width:400px;
+      height: 200px;
+      background-color: RGB(14,165,180);
+      margin-bottom: 40px;
+      color: RGB(14,165,180);
+      position:center;
+      display: block;
+      z-index: 1}
+
+      .second-container{
+        width: 600px;
+        max-width: 600px;
+        min-width:600px;
+        height: 400px;
+        background-color: RGB(192,194,194);
+        margin-bottom: 30px;
+        color: RGB(192,194,194);
+        position: center;}
+
+
+      .third-container{
+        width: 400px;
+        max-width: 400px;
+        min-width:400px;
+        height: 200px;
+        background-color: RGB(223,220,15);
+        margin-bottom: 30px;
+        color: Black;
+        text-align: center;
+        position: center;}
