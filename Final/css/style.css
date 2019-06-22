@@ -1,0 +1,205 @@
+nav  li {
+     display: inline;
+     padding: 5px;}
+   ul {
+        background-color: darkgray;
+        text-align: center;
+        padding: 10px;}
+
+body {
+              background-color: lightgrey;}
+           .behind-text {
+              background-color: black;}
+           .padded {
+              background-color: white;
+              padding: 20px;}
+
+.container {
+     background-color: white;
+     padding: 20px;
+     border: 10px solid grey;
+     width: 400px;
+     max-width: 600px;
+     min-width:600px;
+     height: 300px;
+     background-color: RGB(192,194,194);
+     margin-bottom: 30px;
+     color:;
+     margin: auto;
+     position: center;
+     font-family:'Maven Pro', sans-serif;}
+
+ .second-container{
+   background-color: white;
+   padding: 20px;
+   border: 10px solid grey;
+   width: 200px;
+   max-width: 600px;
+   min-width:600px;
+   height: 400px;
+   background-color: RGB(192,194,194);
+   margin-bottom: 30px;
+   color:;
+   margin: auto;
+   position: center;
+   font-family:'Maven Pro', sans-serif;}
+
+   .third-container{
+     background-color: white;
+     padding: 20px;
+     border: 10px solid grey;
+     width: 200px;
+     max-width: 600px;
+     min-width:600px;
+     height: 600px;
+     background-color: RGB(192,194,194);
+     margin-bottom: 30px;
+     color:;
+     margin: auto;
+     position: center;
+     font-family:'Maven Pro', sans-serif;}
+
+     .fourth-container{
+       background-color: white;
+       padding: 20px;
+       border: 10px solid grey;
+       width: 200px;
+       max-width: 600px;
+       min-width:600px;
+       height: 500px;
+       background-color: RGB(192,194,194);
+       margin-bottom: 30px;
+       color:;
+       margin: auto;
+       position: center;
+       font-family:'Maven Pro', sans-serif;}
+
+       .fifth-container{
+         background-color: white;
+         padding: 20px;
+         border: 10px solid grey;
+         width: 200px;
+         max-width: 600px;
+         min-width:600px;
+         height: 300px;
+         background-color: RGB(192,194,194);
+         margin-bottom: 30px;
+         color:;
+         margin: auto;
+         position: center;
+         font-family:'Maven Pro', sans-serif;}
+
+       .sixth-container {
+            background-color: white;
+            padding: 20px;
+            border: 10px solid grey;
+            width: 400px;
+            max-width: 600px;
+            min-width:600px;
+            height: 450px;
+            background-color: RGB(192,194,194);
+            margin-bottom: 30px;
+            color:;
+            margin: auto;
+            position: center;
+            font-family:'Maven Pro', sans-serif;}
+
+       }
+       .seventh-container {
+            background-color: white;
+            padding: 20px;
+            border: 10px solid grey;
+            width: 400px;
+            max-width: 600px;
+            min-width:600px;
+            height: 500px;
+            background-color: RGB(192,194,194);
+            margin-bottom: 30px;
+            color:;
+            margin: auto;
+            position: center;
+            font-family:'Maven Pro', sans-serif;}
+
+     }
+
+h1 {
+       text-align: center;
+       margin: center;
+     }
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+ }
+ h2 {
+   text-align: center;
+   font-size: 40pt;
+   font-family: 'Cinzel', serif;
+   Color: brown;
+ }
+ h3 {
+   text-align: center;
+   font-size: 40pt;
+   color: brown;
+ }
+ h4 { text-align: center;
+  margin: center;
+  text-align: center;
+  font-size: 18pt;}
+ }
+
+h5 { text-align: center;
+ font-size: 30pt;
+ color: brown;}
+
+ h6{ text-align: center;
+  font-size: 8pt;
+  color: black;}
+
+ .top-left {
+   position: absolute;
+   top: 80px;
+   left: 90px;}
+
+     nav :hover {
+   color: black;
+   font-family: 'Maven Pro';
+}
+.dropbtn {
+  display: inline;
+  padding: 0px;
+  color: purple;
+  font-size: 14px;
+  border: none;
+  font-family: 'Maven Pro'
+
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content a:hover {background-color: #ddd;}
+.dropdown:hover .dropdown-content {display: block;}
+
+p {
+  margin: auto;
+  position: center;
+  font-family:'Maven Pro', sans-serif;
+  text-align: center;
+  font-size: 18pt
+}
